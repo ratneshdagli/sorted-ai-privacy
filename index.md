@@ -1,4 +1,4 @@
-# SORTED AI – PRIVACY POLICY  
+# SortMate AI – PRIVACY POLICY  
 **Effective Date:** January 16, 2025  
 **Last Updated:** January 16, 2025
 
@@ -6,7 +6,7 @@
 
 ## INTRODUCTION
 
-Sorted AI ("we," "our," or "the App") is a 100% local-first productivity assistant that automatically converts messages from WhatsApp into actionable draft tasks and calendar events—all processed entirely on your device with zero cloud uploads.
+SortMate AI ("we," "our," or "the App") is a 100% local-first productivity assistant that automatically converts messages from WhatsApp into actionable draft tasks and calendar events—all processed entirely on your device with zero cloud uploads.
 
 Our Core Privacy Commitment:
 
@@ -30,7 +30,7 @@ What we do NOT do with your information
 ### 2.1 WhatsApp Message Text (On-Device Only)
 
 **What the App Does:**  
-When you enable the Accessibility Service, Sorted AI reads message text directly from WhatsApp to detect tasks, events, and reminders.
+When you enable the Accessibility Service, SortMate AI reads message text directly from WhatsApp to detect tasks, events, and reminders.
 
 **Examples of Processing:**  
 "Meeting kal 3 baje" → Draft Event: "Meeting Tomorrow 3:00 PM"  
@@ -68,7 +68,7 @@ Deletion is enforced through daily scheduled cleanup that permanently removes ex
 ### 2.2 Calendar Events
 
 **What the App Does:**  
-If you grant Calendar permission, Sorted AI can:
+If you grant Calendar permission, SortMate AI can:
 
 Read your existing calendar events to detect scheduling conflicts  
 Write events to your calendar only when you explicitly tap "Confirm" on a draft
@@ -411,7 +411,7 @@ Irreversible and permanent
 ## CHILDREN'S PRIVACY
 
 **Age Requirement:**  
-Sorted AI is intended for users 13 years of age and older.
+SortMate AI is intended for users 13 years of age and older.
 
 **No Children's Data Collection:**  
 Since we do not collect any data (all processing is local), we inherently comply with children's privacy laws including:
@@ -478,7 +478,7 @@ Email: support@sortedai.app
 Response Time: Within 48-72 hours
 
 Mailing Address:  
-Sorted AI Development Team  
+SortMate AI Development Team  
 [Your Street Address]  
 [City, State, ZIP Code]  
 India
@@ -532,7 +532,7 @@ Contact: security@sortedai.app
 
 ## AGREEMENT
 
-By installing and using Sorted AI, you acknowledge that you have:
+By installing and using SortMate AI, you acknowledge that you have:
 
 ✅ Read and understood this Privacy Policy  
 ✅ Agreed to the data processing practices described above  
