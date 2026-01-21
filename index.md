@@ -475,7 +475,7 @@ If you do not agree, please:
 
 ---
 
-## 15. SUMMARY (TL;DR)
+## 15. SUMMARY
 
 ✅ **100% Local Processing** – Everything happens on your phone  
 ✅ **No Off-Device Data Collection** – We don't transmit any data externally  
@@ -490,5 +490,6 @@ If you do not agree, please:
 
 ---
 
-**END OF PRIVACY POLICY** **Last Reviewed:** January 21, 2026  
+**END OF PRIVACY POLICY**
+**Last Reviewed:** January 21, 2026  
 **Version:** 1.0.1
